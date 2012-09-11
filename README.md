@@ -35,7 +35,7 @@ Install
 Example
 -------
 
-    python -m rajax ab[\D8]+
+    rajax ab[\D8]+
     
     Tokens:
     'ORD_CHAR' 'a'
